@@ -1,6 +1,7 @@
 ### Hi there 👋, Hey, I am Shaiful Islam
 #### Web developer.
-![Web developer.](https://avatars.githubusercontent.com/u/76465900?v=4)
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/76465900?v=4" alt="haidercse" /> </p>
+
 
 Shaiful Islam Haider has been in software development for the last 1+ years technology solutions and Coding. Currently, he is working as a Software Engineer at Appinion BD Limited.
 
