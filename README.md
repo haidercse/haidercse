@@ -12,7 +12,7 @@ Version Control: ​Git with Smart Git Flow; used with  Github, .
 Frontend Development: ​HTML, CSS, Bootstrap, Vue.js, Jquery.
 Others:​ OAuth, JWT.
 
-Skills: PHP/LARAVEL/JS/VUE JS / HTML / CSS
+Skills: PHP/LARAVEL/JS/VUE JS/HTML/CSS/MySql
 
 - 🔭 I’m currently working on this page. 
 
