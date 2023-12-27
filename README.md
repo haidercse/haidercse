@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/76465900?v=4" alt="haidercse" /> </p>
 
 
-Shaiful Islam Haider has been in software development for the last 1+ years technology solutions and Coding. Currently, he is working as a Software Engineer at Appinion BD Limited.
+Shaiful Islam Haider has been in software development for the last 2+ years technology solutions and Coding. I was  working as a Software Engineer at Appinion BD Limited and Micromac technovally.
 
 Have worked with the following technologies:
 Languages:​ PHP, JavaScript, C++.
